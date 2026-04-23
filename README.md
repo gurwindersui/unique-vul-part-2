@@ -1,4 +1,4 @@
-## Missing Maximum Asset Validation Enables DoS Attack#128
+## Missing Maximum Asset Validation Enables DoS Attack
 
 
 
